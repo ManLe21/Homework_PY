@@ -32,5 +32,5 @@ run_test(chrome_driver)
 print("\nRunning on Edge:")
 edge_driver = webdriver.Edge()
 run_test(edge_driver)
-# test comment 1
+# test comment 3
 
